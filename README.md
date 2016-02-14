@@ -21,3 +21,5 @@ MVP模式的演示源码, 请查阅LoginActivity.
 自定义了Activity的回退栈, 便于管理Activity，请查阅ActivityManager源码.
 
 基于gradle构建，配置了多渠道打包.
+
+更多集成，敬请期待!
